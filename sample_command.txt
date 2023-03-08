@@ -1,0 +1,1 @@
+python .\sigma2excel.py -t splunk -c tools\config\splunk-windows.yml rules/windows/process_creation/proc_creation_win_hktl_krbrelayup.yml -o test10.xlsx
